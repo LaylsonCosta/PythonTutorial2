@@ -20,3 +20,7 @@ print(bool(c))
 
 c = "same value"
 print(bool(c))
+
+"""
+pull request test
+"""
