@@ -14,7 +14,7 @@ print(bool(1))
 print(bool(2))
 
 
-"""Empt and 0 value is False"""
+"""Empty and 0 value is False"""
 c = ""
 print(bool(c))
 
