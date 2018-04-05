@@ -1,6 +1,6 @@
 """
-Data tupe to store more than one value in one variable name
-List item are brackets, separeted with "," [ 1, 2, 3 ]
+Data type to store more than one value in one variable name
+List item are brackets, separated with "," [ 1, 2, 3 ]
 """
 
 
